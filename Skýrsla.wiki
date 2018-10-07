@@ -1,0 +1,29 @@
+Höfundur leiks er: Daníel Þór Gestsson
+
+Lýsing Leiks:
+
+Leikurinn er frekar einfaldur í spilun og skýrir sig sjálfur.
+Meginmarkmið leiksins er að ná 25 demöntum í kistuna sem þú leikur, án þess að deyja ákveðið oft.
+Leikmaður byrjar með aðeins eitt líf en hægt er að fá aukalíf fyrir hverja 5 demanta safnaða í kistuna.
+Það er ein leið til að deyja og það er ef að leikmaður snertir eldgos.
+Það er mjög einfalt að stjórna leikmanninum, en það er gert með annaðhvort A,D og spacebar eða örvatökkunum til hægri og vinstri og spacebar.
+Hægt er að stjórna leikmanni í loftinu og er það nauðsynlegt til að ná að safna öllum demöntunum.
+Uppi í hægra horni er stigateljari sem hækkar um einn fyrir hvern demant sem safnað er.
+Uppi í vinstra horninu er svo magn lífa sem leikmaður hefur.
+
+Framhald:
+
+Það sem ég væri til í að gera í framhaldinu væri að bæta fleiri Levelum og kannski hafa þá ehv annað sem kistan safnar, eins og til dæmis Emeralds. Væri líka til í að gera ehv skemmtilegt tengt kistunni, t.d. að hún myndi opnast og gleypa hlutina sem hún væri að safna.
+Kannski bæta við einhverjum enemies sem reyna að stela demöntunum eða ehv í þá áttina.
+
+Heimildir:
+
+Notaði aðallega myndbönd á youtube til að kynna mér virkni Unity og hvernig maður ætti að gera ákveðna hluti.
+Aðallega horfði ég á myndbönd á rás sem heitir Brackeys og lærði mikið af því sem ég gerði í leiknum frá honum.
+
+Dæmi um myndbönd sem ég skoðaði:
+
+https://www.youtube.com/watch?v=zc8ac_qUXQY
+https://www.youtube.com/watch?v=ryISV_nH8qw&t
+https://www.youtube.com/watch?v=on9nwbZngyw
+https://www.youtube.com/watch?v=VfAYSWpf7gg
